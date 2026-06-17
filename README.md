@@ -81,6 +81,17 @@ StudentApp/
 
 ## Screenshots
 
+![Home Screen](screenshots/home.png)
+
+![Students List](screenshots/students-list.png)
+
+![Search Screen](screenshots/search.png)
+
+![Student Details Screen](screenshots/student-details.png)
+
+![Add Student Screen](screenshots/add-student.png)
+
+![Profile Screen](screenshots/profile.png)
 
 ## Developer
 
